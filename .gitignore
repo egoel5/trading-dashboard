@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+.env
+
+# Tailwind cache
+.tailwind/
+
+# Vite build files
+.vite/
